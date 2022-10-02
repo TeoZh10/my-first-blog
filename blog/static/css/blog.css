@@ -32,7 +32,7 @@ h1, h2, h3, h4 {
 }
 
 .top-menu, .top-menu:hover, .top-menu:visited {
-    color: #ffffff;
+    color: #FF00F3;
     float: right;
     font-size: 26pt;
     margin-right: 20px;
@@ -47,6 +47,10 @@ h1, h2, h3, h4 {
     color: #FF00F3;
 }
 
-.post p {
+.post p, .post a {
     color: #FF00F3;
+}
+
+.col-md-8 h1 a {
+  color: #FF00F3;
 }
